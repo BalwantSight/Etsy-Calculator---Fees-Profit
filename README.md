@@ -1,3 +1,10 @@
+<div align="center">
+  
+![banner](https://github.com/BalwantSight/Etsy-Printify-Calculator--Fees-Profit/assets/103304256/b016b425-6894-4b22-880e-02649469c8db)
+
+</div>
+
+
 <h1>CatEtsy (English)</h1>
 <h2>Etsy & Printify Profit Calculator: Your Tool for Efficient Shop Management</h2>
 
@@ -5,6 +12,8 @@
 Video showing how the software works:
 
 <div align="center">
+
+https://github.com/BalwantSight/Etsy-Printify-Calculator--Fees-Profit/assets/103304256/9d886d42-473e-4d7b-ae73-d94ed45f3fbb
 
 </div>
 
@@ -40,10 +49,14 @@ Video showing how the software works:
 <p>With CatEtsy, managing your Etsy and Printify store has never been more efficient. Streamline your processes, make informed decisions, and optimize your operations with our comprehensive tool for Etsy sellers. <strong>Download CatEtsy today and take your store's pricing management to the next level.</strong></p>
 
 
-<h2>Capture</h2>
+<div align="center">
+  
+![CatEtsy](https://github.com/BalwantSight/Etsy-Printify-Calculator--Fees-Profit/assets/103304256/38f4e746-3cca-44db-adf6-79d4be39f615)
+
+</div>
+
 
 <p>With CatEtsy, managing your Etsy store has never been more efficient. Streamline your processes, make informed decisions, and optimize your operations with our comprehensive tool for Etsy sellers. Download CatEtsy today and take your price management to the next level.</p>
-
 
 <h2>Descarga</h2>
 The software is available on the creator's website.
@@ -83,4 +96,5 @@ The software is available on the creator's website.
 </ol>
 
 <p>Con CatEtsy, la gestión de tu tienda Etsy y Printify nunca ha sido más eficiente. Simplifica tus procesos, toma decisiones informadas y optimiza tus operaciones con nuestra herramienta integral para vendedores de Etsy. <strong>Descarga CatEtsy hoy mismo y lleva la gestión de precios de tu tienda al siguiente nivel.</strong></p>
+
 
