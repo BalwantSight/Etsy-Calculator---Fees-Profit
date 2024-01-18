@@ -64,7 +64,7 @@ The software is available on the creator's website.
 <br>
 <br>
 <h1>CatEtsy (Spanish)</h1>
-<h2>Calculadora de Ganancias Etsy & Printify: Tu herramienta para una gestión eficiente de la tienda</h2>
+<h2>Calculadora de Ganancias Etsy & Printify: Gran herramienta para una gestión eficiente de tu tienda</h2>
 
 <h2>Descripción</h2>
 
